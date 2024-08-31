@@ -31,7 +31,7 @@ $ make memcheck
 
 ## Submitting your solution
 
-You can submit your solution using the `exercism submit grains.c grains.h` command.
+You can submit your solution using the `exercism submit collatz_conjecture.c collatz_conjecture.h` command.
 This command will upload your solution to the Exercism website and print the solution page's URL.
 
 It's possible to submit an incomplete solution which allows you to:
