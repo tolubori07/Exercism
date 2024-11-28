@@ -1,5 +1,6 @@
 {
     "diagnostics.globals": [
-        "price"
+        "price",
+        "newtonise"
     ]
 }
